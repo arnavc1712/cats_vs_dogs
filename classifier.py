@@ -152,9 +152,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-# def tensorboard_stuff():
 
-# 	tensorboard --logdir=/Users/arnav1712/code/cats_vs_dogs/log
 
 
 
